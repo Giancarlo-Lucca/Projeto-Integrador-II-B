@@ -30,9 +30,5 @@ Este repositório será empregado para registro dos procedimentos e/ou programas
 * O desafio será iniciado em **19/11/2022, 10h**, com a postagem das hashs
 
 
-### Outras práticas exercitadas, mas que não irão fazer parte dos Relatórios Parcial e Final
-
-Como verificar se um site é vulnerável a ataques de SQL Injection. Uma sequencia típica de procedimentos está disponível neste **[documento](https://github.com/adenauery/sqlmap/wiki/Explorando-o-SQLMAP)**
-
 ### Estatísticas de Ataques no Mundo
   * https://cybermap.kaspersky.com/pt/stats
